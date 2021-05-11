@@ -1,3 +1,3 @@
 # Raindrops
-&copy; 2021 electroNBS. All Rights Reserved.
-Simple raindrops pattern animation with gravity; bouncing of an umbrella.
+&copy; 2021 electroNBS. All Rights Reserved.<br>
+Simple raindrops pattern animation with gravity; bouncing off an umbrella.
